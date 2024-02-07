@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmeticHediff", "CosmeticHediff\CosmeticHediff.csproj", "{348FFC40-CEFF-47E4-BDD6-822D3A62CFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348FFC40-CEFF-47E4-BDD6-822D3A62CFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348FFC40-CEFF-47E4-BDD6-822D3A62CFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348FFC40-CEFF-47E4-BDD6-822D3A62CFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348FFC40-CEFF-47E4-BDD6-822D3A62CFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE9FB2C-36FA-4A91-B1F9-03CCF6DC7D90}
+	EndGlobalSection
+EndGlobal
